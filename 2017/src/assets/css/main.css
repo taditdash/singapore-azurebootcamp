@@ -454,3 +454,14 @@ screen and (max-device-width: 1050px) {
         line-height: 38px
     }
 }
+
+#dLabel{
+	color: #777;
+	border: none;
+	background-color: #222222;
+}
+
+#dLabel:hover, #dLabel:focus {
+	color: #fff;
+    background-color: transparent; 
+}
