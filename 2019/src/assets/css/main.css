@@ -175,7 +175,7 @@ a::before {
     transition: color .1s ease-in, background .1s ease-in
 }
 #headerwrap {
-    margin-top: 20px;
+    margin-top: 110px;
     padding-top: 120px;
     text-align: center;
     min-height: 650px;
